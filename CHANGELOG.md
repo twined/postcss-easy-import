@@ -1,11 +1,5 @@
 ### HEAD
 
-### 4.0.0
-
-* Update `postcss-import` to `12.0.1`
-* Update `postcss` to `7.0.17`
-* Update `pify` to `4.0.1`
-
 ### 3.0.0
 
 * Update `postcss-import` to `10.0.0`
