@@ -25,14 +25,14 @@
   },
   "homepage": "https://github.com/TrySound/postcss-easy-import",
   "dependencies": {
-    "globby": "^10.0.1",
+    "globby": "^11.0.1",
     "is-glob": "^4.0.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "object-assign": "^4.1.1",
-    "pify": "^4.0.1",
-    "postcss": "^7.0.17",
+    "pify": "^5.0.0",
+    "postcss": "^7.0.32",
     "postcss-import": "^12.0.1",
-    "resolve": "^1.11.1"
+    "resolve": "^1.17.0"
   },
   "devDependencies": {
     "@logux/eslint-config": "^30.0.2",
